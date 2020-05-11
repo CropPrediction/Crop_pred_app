@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CROPPREDICTION</string>
+    <string-array name="crop">
+        <item>select</item>
+        <item>wheat</item>
+        <item>sugarcane</item>
+        <item>paddy</item>
+    </string-array>
+</resources>
